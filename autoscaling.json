@@ -13,7 +13,7 @@
   	"NumberOfInstances" : {
   		"Type" : "String",
   		"Description" : "Desired Number of instances",
-  		"Default" : "2"
+  		"Default" : "3"
   	},
   	"KeyName" : {
   		"Type" : "AWS::EC2::KeyPair::KeyName",
