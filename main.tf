@@ -5,3 +5,4 @@ resource "aws_instance" "exampleFRED" {
 }
 #testing commit 
 #adding commit
+#working from iphone
