@@ -1,12 +1,14 @@
-using 
+using
 droid edit
 ## Welcome to GitHub Pages
 
 Adding detailfrom S2samsungS2 tablet
 
-droid edit is better 
+droid edit is better
 
-adding lines from iphone 
+adding lines from iphone
+
+ADDING FROM OPENING REPO in GitKraken
 
 u can use the [editor on GitHub](https://github.com/ParzivalWins/AWSprojects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
